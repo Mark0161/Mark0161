@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Mark0161 based in Manchester UK. 
-- 👁️ Avaliable for any Delphi Freelance projects.
-- 👀 Extensive Delphi experience, as well as exposure to C++.
-- 🌱 I’m currently delving Google Cloud Platform with Dart/Flutter.
-- ⇈  Updating my Repo with various Delphi Samples.
-- 💞️ I’m looking to collaborate on Delphi/Dart.
+- 👋 Hi, I’m Mark0161 based in Manchester UK. 
+- 👁️ Available for any relevant Freelance projects.
+- 👀 Extensive Programming (Delphi, C++, General) experience.
+- 🌱 I’m currently delving into :-
+  * Dart/Flutter.
+  * WinRT/C++.
+  * Delphi.
+- ⇈  Updating my Repo with various Samples.
 - 📫 How to reach me :- __Mark0161@mail.com__
 
 <!---
